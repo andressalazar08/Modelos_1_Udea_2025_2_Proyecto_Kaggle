@@ -2,4 +2,4 @@
 ## Integrantes del equipo - Primera Entrega
 * Andrés Felipe Salazar Ramos 94539240
 * Samuel Esteban Contreras 1000540401
-* Sofia Esther Vertel Benitez 
+* Sofia Esther Vertel Benitez 1003005595
